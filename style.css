@@ -48,7 +48,7 @@ header {
 
 .header-icon {
   width: 35%;
-  max-width: 300px;
+  max-width: 400px;
   margin: 0 auto;
 }
 
@@ -228,14 +228,12 @@ header {
   body {
     background-image: url("./assets/bg-edit2.jpg");
   }
-
-  .header-icon {
-    width: 26%;
-  }
   .header-illustration {
     width: 52%;
   }
-
+.header-icon{
+  width: 28%;
+}
   .gifts-container {
     grid-template-columns: repeat(4, 1fr);
     grid-template-rows: 1fr;
